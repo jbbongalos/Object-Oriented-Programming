@@ -2,7 +2,7 @@
 
 This repository contains my **pretests, assignments, and activities** during my 2nd year Object-Oriented Programming (OOP) in Java course.
 
-Contents
+# Contents
 - ✅ **Pretests** 
 - ✅ **Assignments** 
 - ✅ **Hands-on Activities** 
